@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name        资源统筹局简易自动签到脚本
 // @namespace   Violentmonkey Scripts
-// @match       https://gkdworld.xyz/
+// @include     https://gkdworld.xyz/
+// @include     https://gkdworld.xyz/forum.php
 // @grant       none
 // @icon        https://gkdworld.xyz/source/plugin/ahome_horn/image/smiles/2.png
 // @license     GPL-3.0-only
