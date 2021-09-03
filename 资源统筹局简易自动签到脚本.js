@@ -5,7 +5,7 @@
 // @grant       none
 // @icon        https://gkdworld.xyz/source/plugin/ahome_horn/image/smiles/2.png
 // @license     GPL-3.0-only
-// @version     1.1.1.1
+// @version     1.1.2
 // @author      remember
 // @description 2021/8/25 下午2:24:30
 // ==/UserScript==
