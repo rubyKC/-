@@ -5,13 +5,13 @@
 // @grant       none
 // @icon        https://gkdworld.xyz/source/plugin/ahome_horn/image/smiles/2.png
 // @license     GPL-3.0-only
-// @version     1.1.1
+// @version     1.1.1.1
 // @author      remember
 // @description 2021/8/25 下午2:24:30
 // ==/UserScript==
 (function remember(){
   function gkdqd() {
-    var mmm = (document.getElementById('JD_sign')) != null ? document.getElementById('JD_sign') : console.log('[签到脚本]未知错误');
+    var mmm = (document.getElementById('JD_sign')) != null ? document.getElementById('JD_sign') : console.log('[签到脚本]未知错误或本页未提供按钮');
     if (mmm)
       !mmm.textContent.includes('已签到') ? mmm.click() : console.log('[签到脚本]已签到');
     }
