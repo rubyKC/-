@@ -1,13 +1,11 @@
 // ==UserScript==
 // @name        资源统筹局简易自动签到脚本
 // @namespace   Violentmonkey Scripts
-// @include     https://gkdworld.xyz/
-// @include     https://gkdworld.xyz/forum.php?mod=forumdisplay
-// @include     https://gkdworld.xyz/forum.php
+// @include     https://gkdworld.xyz/*
 // @grant       none
 // @icon        https://gkdworld.xyz/source/plugin/ahome_horn/image/smiles/2.png
 // @license     GPL-3.0-only
-// @version     1.1.0
+// @version     1.1.1
 // @author      remember
 // @description 2021/8/25 下午2:24:30
 // ==/UserScript==
